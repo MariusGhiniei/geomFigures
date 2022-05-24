@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\geomFigures\bin\Debug\geomFigures.exe.config
+C:\Users\ASUS\source\repos\geomFigures\bin\Debug\geomFigures.exe
+C:\Users\ASUS\source\repos\geomFigures\bin\Debug\geomFigures.pdb
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.ellipse.resources
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.exe
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.pdb
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.hyper.resources
+C:\Users\ASUS\source\repos\geomFigures\obj\Debug\geomFigures.astrid.resources

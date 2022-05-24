@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geomFigures", "geomFigures.csproj", "{5409D532-6657-4B6A-8334-C07F3F29C901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5409D532-6657-4B6A-8334-C07F3F29C901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5409D532-6657-4B6A-8334-C07F3F29C901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5409D532-6657-4B6A-8334-C07F3F29C901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5409D532-6657-4B6A-8334-C07F3F29C901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472C58A1-0AA1-4937-91C0-A16D0BC3597B}
+	EndGlobalSection
+EndGlobal
